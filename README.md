@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projet 5 : Coloration de graphes
 
 ## Description
@@ -35,3 +36,7 @@ Le projet utilise principalement :
    ```bash
    git clone https://github.com/moustapha60fall/projet5-coloration-graphes
    cd projet5-coloration-graphes/code
+=======
+# projet5-coloration-graphes
+Implémentation en Python d’algorithmes de coloration de graphes (Backtracking, Glouton, Welsh–Powell, DSATUR) avec analyse de complexité et rapport en LaTeX.
+>>>>>>> 14908be45a891f96d49ed877393fc9ad9c6cfc12
